@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EletricCarApp</string>
+    <string name="preco_kwh">Preço KWh</string>
+    <string name="km_percorrido">Km Percorrido</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado:</string>
+    <string name="automatico">Automatico</string>
+    <string name="manual">Manual</string>
+    <string-array name="option">
+        <item>Pica</item>
+        <item>Buceta</item>
+        <item>Peito</item>
+    </string-array>
+</resources>
